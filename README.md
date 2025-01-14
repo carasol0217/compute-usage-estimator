@@ -1,1 +1,2 @@
-# compute-usage-estimator
+# Compute Usage Estimator
+Currently an abandoned mini-project.
